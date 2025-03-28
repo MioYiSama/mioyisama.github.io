@@ -11,10 +11,9 @@ next: false
 
 ## AI
 
-[怎么和AI（LLM）聊天](/posts/ai/how-to-chat-with-ai)
+[怎么和 AI（LLM）聊天](/posts/ai/how-to-chat-with-ai)
 
 [Kaggle 深度学习笔记（双语）](/posts/ai/kaggle-dl-notes)
-
 
 ## Web
 
@@ -22,7 +21,7 @@ next: false
 
 [Svelte Kit 笔记](/posts/web/svelte-kit-notes)
 
-[Web框架构建体积对比](/posts/web/build-size)
+[Web 框架构建体积对比](/posts/web/build-size)
 
 [移动设备安全区域、工具栏处理方案](/posts/web/mobile-view)
 
@@ -37,3 +36,5 @@ next: false
 [Arch Linux 安装](/posts/os/install-arch)
 
 ## 其他
+
+[上云教程](/posts/other/cloud)
