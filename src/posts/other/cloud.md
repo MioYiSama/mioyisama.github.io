@@ -45,19 +45,19 @@
 
 1. 输入一个想要的名字，并选择一个后缀（顶级域名），然后点击查询
 
-![aliyun-domain](@/public/images/cloud/aliyun-domain.png)
+![aliyun-domain](./cloud/aliyun-domain.png)
 
 2. 如果未被注册，则点击“立即注册”，然后进行购买；否则请更换顶级域名
 
-![buy-domain](@/public/images/cloud/buy-domain.png)
+![buy-domain](./cloud/buy-domain.png)
 
 3. 购买完成后，打开[域名控制台](https://dc.console.aliyun.com/next/index#/domain-list/all)，选择“解析”
 
-![domain-list](@/public/images/cloud/domain-list.png)
+![domain-list](./cloud/domain-list.png)
 
 4. 添加解析记录。详细解释请看右边的说明
 
-![configure-dns](@/public/images/cloud/configure-dns.png)
+![configure-dns](./cloud/configure-dns.png)
 
 ## HTTPS
 
@@ -67,6 +67,6 @@ HTTPS 为 HTTP 的安全版本，通过 TLS/SSL 技术进行数据加密。HTTPS
 
 Cloudflare 提供了 HTTPS（免费）、DNS 解析（免费）、DDOS 防护（部分免费）和 CDN（部分免费）等功能，被大多数人调侃为“赛博菩萨”。其中 HTTPS 的配置也非常灵活：
 
-![cf-https](@/public/images/cloud/cf-https.png)
+![cf-https](./cloud/cf-https.png)
 
 有兴趣的可以自行研究怎么使用 Cloudflare
