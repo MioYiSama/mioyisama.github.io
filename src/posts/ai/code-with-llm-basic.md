@@ -15,7 +15,7 @@
 ```python
 # 指 LLM 需要遵守的全局提示词，通常用来指明LLM需要遵循的各种要求和指令
 系统提示词 = {
-    "role": "user",
+    "role": "system",
     "content": "系统提示词的内容"
 }
 
