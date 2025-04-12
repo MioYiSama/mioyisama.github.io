@@ -13,6 +13,8 @@ next: false
 
 [怎么和 AI（LLM）聊天](/posts/ai/how-to-chat-with-ai)
 
+[用代码与 LLM 交互 - 基础篇](/posts/ai/code-with-llm-basic)
+
 [Kaggle 深度学习笔记（双语）](/posts/ai/kaggle-dl-notes)
 
 ## Web
